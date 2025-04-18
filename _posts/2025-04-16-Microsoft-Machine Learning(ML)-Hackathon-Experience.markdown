@@ -11,12 +11,11 @@ show_date_relative: false
 This is my first time joining hackathon, the work pace was super intensive. Love the collaborative work. It inspired me to join more and keep learn more to make up my knowledge weakness.
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/hackathonmicrosoftteam4172025.png" alt="Hackathon Team" style="max-width: 100%; height: auto;" />
-  <p><strong>Team Up with GM senior leaders Mr. [Suresh Munagapati][suresh-munagapati], Mr. [Ramakanth Pinisetti][ramakanth-pinisetti], and [Alex moerschbacher][alex-moerschbacher]</strong></p>
+  <!-- <p><strong>Team Up with GM senior leaders Mr. [Suresh Munagapati][suresh-munagapati], Mr. [Ramakanth Pinisetti][ramakanth-pinisetti], and [Alex moerschbacher][alex-moerschbacher]</strong></p> -->
 </div>
+
+
 Team Up with GM senior leaders Mr. [Suresh Munagapati][suresh-munagapati], Mr. [Ramakanth Pinisetti][ramakanth-pinisetti], and [Alex moerschbacher][alex-moerschbacher]
-[suresh-munagapati]: https://www.linkedin.com/in/sureshmunagapati/
-[ramakanth-pinisetti]: https://www.linkedin.com/in/ramakanthpinisetti/
-[alex-moerschbacher]: https://www.linkedin.com/in/alex-moerschbacher/
 
 Problem Scenario trying to solve:
 
@@ -83,7 +82,9 @@ Challenge 6 – Add AI Application to App:
 In this challenge, participants will create an Azure AI Search index based on the SQL database view, implement an API for natural language queries of the Azure AI Search index to get a chat application running locally using Python environment.
 
 
-
+[suresh-munagapati]: https://www.linkedin.com/in/sureshmunagapati/
+[ramakanth-pinisetti]: https://www.linkedin.com/in/ramakanthpinisetti/
+[alex-moerschbacher]: https://www.linkedin.com/in/alex-moerschbacher/
 
 ### Working on the content!
 <!-- 
