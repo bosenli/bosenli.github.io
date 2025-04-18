@@ -19,11 +19,9 @@ I'm a cybersecurity professional with a background in software engineering and c
 
 ### Software Developer – General Motors  
 *June 2022 - Present*
-- Developed insourcing GM dealer application to streamline sales information using microservice architecture and MVC model in Java Spring boot saving org $2 million annually
+- Developed secure insourcing GM dealer application to streamline sales information using microservice architecture and MVC model in Java Spring boot saving org $2 million annually
 - Deploy apps using Docker and Kubernettes on Azure with CI/CD
-- Collaborated with senior software architects to design and implement scalable and secure solutions for national wide dealer sales reporting projects
-- Partnered with business leaders and product owners to align technical solutions with business goals, demonstrating strong consulting and communication skills
-- Acted as a key point of contact for developing and deploying critical features, ensuring high reliability and availability
+- Performed vulnerability scanning and remediation using tools like SonarQube, Fossa & AI
 
 ### Software Engineer – Co-Founder Woda Online Retail  
 *June 2019 – January 2020*  
@@ -44,11 +42,11 @@ I'm a cybersecurity professional with a background in software engineering and c
 ## 🎓 Education
 
 **MS in Cybersecurity | Cyber Fellow**, NYU — May 2025  
-**BS Major in FINANCE, Minor in Computer Science**, Baruch College, City University of New York — 2022
+**BS Major in Finance, Minor in Computer Science**, Baruch College, City University of New York — 2022
 
 ## 📜 Certifications
 
-- AWS Certified Security – Specialty
-- CompTIA Security+
+- Working on AWS Certified Security – Specialty
+- Working on CompTIA Network+, Security+, CySA+
 
 [Download PDF](#) <!-- You can link to a PDF here -->

@@ -8,14 +8,6 @@ show_date: true
 show_date_relative: false
 --- -->
 
-
-
-<!-- ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-04-16 12:56:17 -0400
-categories: jekyll update
---- -->
 This is my first time joining hackathon, the work pace was super intensive. Love the collaborative work. It inspired me to join more and keep learn more to make up my knowledge weakness.
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/hackathonmicrosoftteam4172025.png" alt="Hackathon Team" style="max-width: 100%; height: auto;" />
@@ -87,6 +79,9 @@ Challenge 6 – Add AI Application to App:
 In this challenge, participants will create an Azure AI Search index based on the SQL database view, implement an API for natural language queries of the Azure AI Search index to get a chat application running locally using Python environment.
 
 
+
+
+### Working on the content!
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
