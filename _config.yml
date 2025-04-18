@@ -96,7 +96,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: BOSEN LI
+  name: BOSEN LI (LEO)
   avatar: "/assets/images/profile.png"
   bio: >
     Life Long Learner, interested in Software Dev, Cybersecurity, Cloud Computing, ML/AI.

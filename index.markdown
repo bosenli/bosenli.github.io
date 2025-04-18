@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome to my blog"
+title: "Welcome to my blog!"
 permalink: /
 # header:
 #   overlay_color: "#000"
