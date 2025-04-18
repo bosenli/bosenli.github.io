@@ -44,6 +44,6 @@ To keep myself learning continuesly:
 - Be focus
 - Ask yourself end of day "What have I accomplished today?"
 
-(if you have better idea on how to learn efficiently, contact me ppmc168@gmail.com , lets have some coffee and ice cream! My Treat! 😊 )
+(if you have better idea on how to learn efficiently, contact me ppmc168@gmail.com , lets have some coffee and ice cream! 😊 )
 
 

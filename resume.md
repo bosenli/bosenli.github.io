@@ -13,7 +13,10 @@ I'm a cybersecurity professional with a background in software engineering and c
 
 - Python, Bash, SQL
 - AWS, Docker, Kubernetes
-- Vulnerability Scanning: Nessus, Burp Suite, Wireshark
+- Vulnerability Scanning: Nessus, Burp Suite, Wireshark, Metasploit
+- AppSec: OWASP Top 10, SAST/DAST, patch management, secure SDLC
+- OS/Platforms: Linux (Kali, Ubuntu), Windows, macOS, AWS (EC2, S3, IAM, Guardduty, Sentinel)
+- Scripting: Python (security automation), Bash, PowerShell
 
 ## 💼 Experience
 
@@ -47,6 +50,6 @@ I'm a cybersecurity professional with a background in software engineering and c
 ## 📜 Certifications
 
 - Working on AWS Certified Security – Specialty
-- Working on CompTIA Network+, Security+, CySA+
+- Working on CompTIA A+, Network+, Security+, CySA+
 
 [Download PDF](#) <!-- You can link to a PDF here -->

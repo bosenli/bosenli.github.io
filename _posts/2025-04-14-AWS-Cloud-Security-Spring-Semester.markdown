@@ -16,34 +16,19 @@ Many organizations today deploy their applications on containers and rely on Kub
 Initial Proposal/Design: 
 We will develop a secure CI/CD pipeline for Kubernetes deployments by utilizing a number of AWS security tools, which include Amazon Inspector for container image scanning, Amazon GuardDuty for threat detection, and AWS CloudTrail for activity logging. The objective is to mitigate vulnerabilities that could compromise the Kubernetes environment, securing our application from attacks. The pipeline begins when a code change is made to the application, triggering the building of the container image. From there, the image will be scanned for vulnerabilities and deployed into a Kubernetes environment. Along the way, we will be setting up network policies, rate limiting, and IP whitelisting to prevent common attack vectors like DDoS attacks and unauthorized access attempts. After it is deployed, we will monitor the application. 
 
+Here is my team's proposal:
 
-[Code Repository (GitHub/CodeCommit)]
-        |
-        v
-[AWS CodeBuild] --> [Docker Image Build] --> [Amazon ECR]
-        |
-        v
-[Amazon Inspector/Trivy] --> [Image Scanning]
-        |
-        v
-[Amazon EKS] --> [Kubernetes Deployment]
-        |
-        v
-[Calico Network Policies] --> [Secure Pod Communication]
-        |
-        v
-[Amazon CloudWatch] --> [Monitoring & Logging]
-        |
-        v
-[Amazon GuardDuty] --> [Threat Detection]
-        |
-        v
-[AWS WAF/Ingress Controller] --> [Rate Limiting & IP Whitelisting]
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/aws_pipeline.JPG" alt="AWS design architect proposal" style="max-width: 100%; height: auto;" />
+  <p><strong>Could security design architect proposal using AWS from my team in the class </strong></p>
+</div>
 
-I would like to recognize and thanks for my professors who are from the secuirty industry Dr. [Rima Tanash][Rima-Tanash] and Ms. [Catherine Dodge][Catherine-Dodge] for the mentoring on cloud security course.
+I would like to recognize and thanks for my teammate [Alexalexander Hom][Alexalexander-hom] from Wells Fargo,[Teng Loong Tee][teng-loong-tee] from Broadsome , [Sankalpa Kattel][Sankalpa-Kattel] from Akamai Technologies, and Professors who are from the secuirty industry Dr. [Rima Tanash][Rima-Tanash] from Amazaon detection service team and Ms. [Catherine Dodge][Catherine-Dodge] from Adobe for the mentoring us on the cloud security course.
 
+
+[Alexalexander-hom]: https://www.linkedin.com/in/alexander-hom-94811b188/
+[teng-loong-tee]: https://www.linkedin.com/in/teetengloong/
+[Sankalpa-Kattel]: https://www.linkedin.com/in/sankalpa-kattel/
 [Rima-Tanash]: https://www.linkedin.com/in/rima-tanash-ph-d-a53b4720/
 [Catherine-Dodge]: https://www.linkedin.com/in/catherine-dodge-security/
-
-Dr. Rima Tanash is a senior security researcher with AWS detective service team where she uses ML and applied automated reasoing tech to build features to audit and investigate various cloud security configurations and Ms. Catherine Dodge who used to work for Amazon mentoring our project.
 
