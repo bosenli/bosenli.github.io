@@ -3,14 +3,14 @@ Reflecting on this spring semester of 2025 at NYU as a Cyber Fellow, it’s been
 I wish I could post all the reports written throughout the semester—they’re quite extensive! But feel free to explore them by clicking into each assignment’s .txt files on GitHub.
 
 ### Assignment 1: Beware of Geeks Bearing Gift Cards
-In this assignment, I had to brush up on C programming to understand the codebase and uncover memory-related issues. It was essential to recognize and fix vulnerabilities like buffer overflows. I also applied fuzzing techniques to test the program using seeded inputs, which helped expose unexpected behaviors.
+- In this assignment 1 , I had to brush up on C programming to understand the codebase and uncover memory-related issues. It was essential to recognize and fix vulnerabilities like buffer overflows. I also applied fuzzing techniques to test the program using seeded inputs, which helped expose unexpected behaviors.
 
 https://github.com/NYUAppSecCF/assignment-1-module-1-bosenli
 https://github.com/NYUAppSecCF/assignment-1-module-2-bosenli
 https://github.com/NYUAppSecCF/assignment-1-module-3-bosenli
 
 ### Assignment 2: When a Wreck Reaches the World Wide Web
-This assignment focused on web security. I successfully rendered a Python Django web application and conducted various types of vulnerability assessments. It was exciting to explore attacks such as cross-site scripting (XSS) and SQL injection, and learn how to mitigate them.
+- This assignment focused on web security. I successfully rendered a Python Django web application and conducted various types of vulnerability assessments. It was exciting to explore attacks such as cross-site scripting (XSS) and SQL injection, and learn how to mitigate them.
 
 https://github.com/NYUAppSecCF/assignment-2-module-1-bosenli
 https://github.com/NYUAppSecCF/assignment-2-module-2-bosenli
