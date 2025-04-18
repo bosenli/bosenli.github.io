@@ -1,4 +1,4 @@
-Reflecting on this past semester at NYU as a Cyber Fellow, it’s been both challenging and incredibly rewarding. I’ve had the opportunity to dive deep into code, identify vulnerabilities, test exploits, and apply fixes. Although it was stressful at times, the sense of accomplishment after resolving issues and earning great scores made it all worth it.
+Reflecting on this spring semester of 2025 at NYU as a Cyber Fellow, it’s been both challenging and incredibly rewarding. I’ve had the opportunity to dive deep into code, identify vulnerabilities, test exploits, and apply fixes. Although it was stressful at times, the sense of accomplishment after resolving issues and earning great scores made it all worth it.
 
 I wish I could post all the reports written throughout the semester—they’re quite extensive! But feel free to explore them by clicking into each assignment’s .txt files on GitHub.
 
