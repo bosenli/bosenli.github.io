@@ -20,7 +20,7 @@ Here is my team's proposal:
 
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/aws_pipeline.JPG" alt="AWS design architect proposal" style="max-width: 100%; height: auto;" />
-  <p><strong>Could security design architect proposal using AWS from my team in the class </strong></p>
+  <p><strong>Cloud security design architect proposal using AWS from my team in the class </strong></p>
 </div>
 
 I would like to recognize and thanks for my teammate [Alexalexander Hom][Alexalexander-hom] from Wells Fargo,[Teng Loong Tee][teng-loong-tee] from Broadsome , [Sankalpa Kattel][Sankalpa-Kattel] from Akamai Technologies, and Professors who are from the secuirty industry Dr. [Rima Tanash][Rima-Tanash] from Amazaon detection service team and Ms. [Catherine Dodge][Catherine-Dodge] from Adobe for the mentoring us on the cloud security course.
