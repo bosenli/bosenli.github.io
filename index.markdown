@@ -17,9 +17,9 @@ excerpt: "Hi, I'm Bosen Li — welcome to my blog."
 This blog shares what I learn, build, and explore.
 
 ### A Little About me:
-I was born knowing nothing and did not know what to do in my early life. I only figured that out after late 20s, realizing technology advancement can change my life and people's every life so dramatically into a more productive and efficient way. It start making me excited about this field. By staying curious, postive and be passionate about technology and innovation always motivates me to keep learning and moving forward!
+I was born knowing nothing and spent much of my early life unsure of my direction. It wasn’t until my late 20s that I realized how profoundly technological advancements can transform lives—making everything more productive and efficient. That realization sparked my excitement for the field. Staying curious, positive, and passionate about technology and innovation continues to drive me to keep learning and moving forward.
 
-During my break time, I like to learn more about pen testing, offsec, and reverse engineering.
+In my free time, I enjoy diving into topics like penetration testing, offensive security, and reverse engineering.
 
 ### Share something about learning skills I realized when I grown up and made my learning skills into a FRAMEWORK of mine I would like to share:
 
