@@ -40,7 +40,10 @@ We will develop a secure CI/CD pipeline for Kubernetes deployments by utilizing 
         v
 [AWS WAF/Ingress Controller] --> [Rate Limiting & IP Whitelisting]
 
-I would like to recognize and thanks for my professors Dr. Rima Tanash https://www.linkedin.com/in/rima-tanash-ph-d-a53b4720/ and Ms. Catherine Dodge.https://www.linkedin.com/in/catherine-dodge-security/
+I would like to recognize and thanks for my professors who are from the secuirty industry Dr. [Rima Tanash][Rima-Tanash] and Ms. [Catherine Dodge][Catherine-Dodge] for the mentoring on cloud security course.
+
+[Rima-Tanash]: https://www.linkedin.com/in/rima-tanash-ph-d-a53b4720/
+[Catherine-Dodge]: https://www.linkedin.com/in/catherine-dodge-security/
 
 Dr. Rima Tanash is a senior security researcher with AWS detective service team where she uses ML and applied automated reasoing tech to build features to audit and investigate various cloud security configurations and Ms. Catherine Dodge who used to work for Amazon mentoring our project.
 

@@ -24,7 +24,7 @@ https://github.com/NYUAppSecCF/assignment-3-module-2-bosenli
 https://github.com/NYUAppSecCF/assignment-3-module-3-bosenli
 
 
-I would like to recognize and thanks for my professors Mr. [Alon Hillel Tuch][Alon-Hillel-Tuch] and Mr. [Jonathan Mann][Jonathan-Mann] for their mentoring.
+I would like to recognize and thanks for my professors who were from the security industry Mr. [Jonathan Mann][Jonathan-Mann] and Mr. [Alon Hillel Tuch][Alon-Hillel-Tuch]  for their mentoring on my AppSec course.
 
 [Jonathan-Mann]: https://www.linkedin.com/in/catherine-dodge-security/
 [Alon-Hillel-Tuch]: https://www.linkedin.com/in/ahillelt/ 
