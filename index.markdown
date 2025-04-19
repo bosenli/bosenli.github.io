@@ -21,6 +21,8 @@ I was born knowing nothing and spent much of my early life unsure of my directio
 
 In my free time, I enjoy diving into topics like penetration testing, offensive security, and reverse engineering.
 
+Right now, I am focus on getting certifications in cybersecurity CompTia CySA+
+
 ### Share something about learning skills I realized when I grown up and made my learning skills into a FRAMEWORK of mine I would like to share:
 
 Learn by:
