@@ -17,7 +17,7 @@ excerpt: "Hi, I'm Bosen Li — welcome to my blog."
 This blog shares what I learn, build, and explore.
 
 ### A Little About me:
-I was born knowing nothing and spent much of my early life unsure of my direction. It wasn’t until my late 20s that I realized how profoundly technological advancements can transform lives—making everything more productive and efficient. That realization sparked my excitement for the field. Staying curious, positive, and passionate about technology and innovation continues to drive me to keep learning and moving forward.
+I was born knowing nothing and spent much of my early life unsure of my direction. It wasn’t until my mid 20s that I realized how profoundly technological advancements can transform lives—making everything more productive and efficient. That realization sparked my excitement for the field. Staying curious, positive, and passionate about technology and innovation continues to drive me to keep learning and moving forward.
 
 In my free time, I enjoy my backyard breathing air from the hot summer and diving into topics like penetration testing, offensive security, and reverse engineering.
 
