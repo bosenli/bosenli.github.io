@@ -33,7 +33,7 @@ Learn by:
 - Doing, make **A LOT OF** mistakes and correct them
 - Sharing and repeating
 - Comparing similar but different things
-- Summary and relection by closing your eye and write it down!
+- Summary and self-reflection by closing my eye to summarize what i have learned and then write them down!
 - Learn from others, from AI as well!
 
 To memorize better:
